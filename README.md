@@ -1,0 +1,2 @@
+<b><h1>Valorant Sheriff Recoilbot</h1></b>
+<p>This is an ahk project dedicated to being able to perfectly time sheriff shots so that they are 100% accurate (not affected by recoil) every time. All that needs to be done is hold down the left mouse button in valorant. You can toggle on or off using the key 'f'. If you hold down the left mouse button with sheriff, it shoots the fastest possible without being affected by recoil. </p>
